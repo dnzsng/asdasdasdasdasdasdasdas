@@ -1,0 +1,9 @@
+{
+  "name": "roblox-discord-webhook",
+  "version": "1.0.0",
+  "description": "Netlify function to send Roblox game data to Discord webhook",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
